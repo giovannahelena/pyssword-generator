@@ -1,0 +1,1 @@
+simply run "py pyssword_generator.py" and and choose the number of letters, numbers and symbols you wish in your password.
